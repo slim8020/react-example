@@ -1,9 +1,9 @@
 // import logo from './logo.svg';
 // import './App.css';
 import React from 'react';
-import TodaysPlan from './TodaysPlan';
-import MyComponent from './MyComponent';
-import PropComponent from './PropsComponent';
+import TodaysPlan from './Components/TodaysPlan';
+import MyComponent from './Components/MyComponent';
+import PropComponent from './Components/PropsComponent';
 
 class App extends React.Component{
   render(){
